@@ -27,41 +27,15 @@ Music platforms have explored various algorithms to enhance user experience by p
 
 ## Getting Started
 
-### Prerequisites
+### Technology Stack
 
-Ensure you have the following installed:
+The following technologies were used for the compilation of the project:
 
 - Python 3.6+
 - TensorFlow / PyTorch
-- Librosa
+- Spotify API
 - Scikit-Learn
-
-### Installation
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/ML-Music-Genre-Predictor.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd ML-Music-Genre-Predictor
-    ```
-3. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-### Usage
-
-1. Prepare your dataset and place it in the `data/` directory.
-2. Run the training script:
-    ```bash
-    python train.py
-    ```
-3. Predict song genres using the trained model:
-    ```bash
-    python predict.py --input songfile.mp3
-    ```
+- Jupyter
 
 ## Results
 
@@ -83,7 +57,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For more information, please contact [your-email@example.com](mailto:your-email@example.com).
+For more information, please contact [pthakur31@gatech.edu](mailto:pthakur31@gatech.edu).
 
 ---
 
