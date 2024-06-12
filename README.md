@@ -57,7 +57,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For more information, please contact [pthakur31@gatech.edu](mailto:pthakur31@gatech.edu).
+For more information, please contact [pthakur31@gatech.edu](mailto:pthakur31@gatech.edu). 
 
 ---
 
