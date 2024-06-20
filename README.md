@@ -22,7 +22,6 @@ Music platforms have explored various algorithms to enhance user experience by p
 
 - **Python**: Core programming language for implementing machine learning models.
 - **TensorFlow / PyTorch**: Libraries for building and training neural networks.
-- **Librosa**: Audio analysis and music processing.
 - **Scikit-Learn**: Traditional machine learning algorithms and evaluation metrics.
 
 ## Getting Started
