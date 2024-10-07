@@ -6,7 +6,7 @@ This project leverages machine learning to accurately predict song genres, simil
 
 ## Key Features
 
-- **Deep Q Network**: Utilizes reinforcement learning to train a Deep Q Network for genre prediction.
+- **Random Forest**: Uses a supervised learning algorithm for genre prediction by constructing multiple decision trees and averaging their outputs for robust classification.
 - **Bayesian Networks**: Evaluates song novelty and audio content for accurate classification.
 - **Neural Networks with Filtering**: Combines neural networks and advanced filtering techniques for enhanced genre prediction accuracy.
 
@@ -14,7 +14,7 @@ This project leverages machine learning to accurately predict song genres, simil
 
 Music platforms have explored various algorithms to enhance user experience by providing accurate music recommendations. Our project dives into:
 
-- **Deep Q Network**: Training methodologies and application in music genre prediction.
+- **Random Forest**: Training methodologies and application in music genre prediction based on a supervised set.
 - **Bayesian Networks**: Assessment of song novelty and audio content.
 - **Neural Networks**: Integration with filtering techniques for improved results.
 
@@ -42,7 +42,7 @@ Our model demonstrates a high accuracy rate in predicting song genres, making it
 
 ## References
 
-1. Training a Deep Q Network
+1. Supervised Learning
 2. Bayesian Networks for Song Novelty and Audio Content Evaluation
 3. Neural Networks with Filtering Techniques
 
